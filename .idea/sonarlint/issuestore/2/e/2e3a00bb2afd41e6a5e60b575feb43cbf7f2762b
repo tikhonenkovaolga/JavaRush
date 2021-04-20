@@ -1,0 +1,9 @@
+
+Lsquid:S1068")Remove this unused "color" private field.(ó¦¥œúÿÿÿÿ8š²ŒÙ›-
+Hsquid:S1068
+"+Remove this unused "centerY" private field.(×‰ö	8ôí„Ù›-
+Lsquid:S1068")Remove this unused "width" private field.(•õ¦òùÿÿÿÿ8ˆæˆÙ›-
+Nsquid:S1068	"+Remove this unused "centerX" private field.(ÝâÚâùÿÿÿÿ8ÅŒƒÙ›-
+wsquid:S1450"TRemove the "color" field and declare it as a local variable in the relevant methods.(ó¦¥œúÿÿÿÿ8ä½¨Ù›-
+˜squid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+Hsquid:S1068"*Remove this unused "radius" private field.(¦—Âï8Šõ…Ù›-

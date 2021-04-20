@@ -1,0 +1,9 @@
+
+Lsquid:S1444"5Make this "public static drugsController" field final(ƒ—­Í
+Ksquid:S1444"/Make this "public static isStopped" field final(Œ“ßşÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"UMake isStopped a static final constant or non-public and provide accessors if needed.(Œ“ßşÿÿÿÿ
+@squid:S2140:")Use "java.util.Random.nextInt()" instead.(ÃŒ“©
+Esquid:S21406")Use "java.util.Random.nextInt()" instead.(­§Ò¤øÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"[Make drugsController a static final constant or non-public and provide accessors if needed.(ƒ—­Í
+]squid:S2142B"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Asquid:S00108B")Either remove or fill this block of code.(ä ¹€

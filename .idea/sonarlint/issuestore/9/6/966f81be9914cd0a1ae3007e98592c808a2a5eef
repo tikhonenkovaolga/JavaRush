@@ -1,0 +1,13 @@
+
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S2147"DCombine this catch with the one at line 28, which has the same body.(®ŞØÍ
+[squid:S21470"DCombine this catch with the one at line 46, which has the same body.(„î¡‘
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+tsquid:S3008"XRename this field "CLIENT_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÌÔşÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake registry a static final constant or non-public and provide accessors if needed.(¶ñƒäúÿÿÿÿ
+Osquid:S1444"3Make this "public static CLIENT_THREAD" field final(ÄÌÔşÿÿÿÿ
+Jsquid:S1444".Make this "public static registry" field final(¶ñƒäúÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"YMake CLIENT_THREAD a static final constant or non-public and provide accessors if needed.(ÄÌÔşÿÿÿÿ
+?squid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(ÄÌÔşÿÿÿÿ

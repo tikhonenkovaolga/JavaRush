@@ -1,0 +1,6 @@
+
+jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ªµΈ ωÿÿÿÿ
+Fsquid:S00108%")Either remove or fill this block of code.(ρ“±όÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.zip.ZipOutputStream'.(ό“–
+\squid:UselessImportCheck"3Remove this unused import 'java.util.zip.ZipEntry'.(ησόΫόÿÿÿÿ
+{squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ιÿ½f

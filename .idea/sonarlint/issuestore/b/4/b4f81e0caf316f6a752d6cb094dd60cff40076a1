@@ -1,0 +1,18 @@
+
+Jsquid:S1444%"3Make this "public static SERVER_THREAD" field final(ª¿¨¥
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Tsquid:S2696/"6Make the enclosing method "static" or remove this set.(ÇÒ×¯8óŽüµý-
+"squid:ClassVariableVisibilityCheck"TMake registry a static final constant or non-public and provide accessors if needed.(ª…S
+Œ"squid:ClassVariableVisibilityCheck"YMake CLIENT_THREAD a static final constant or non-public and provide accessors if needed.(ÄÌÔþÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck%"YMake SERVER_THREAD a static final constant or non-public and provide accessors if needed.(ª¿¨¥
+osquid:S3008%"XRename this field "SERVER_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¿¨¥
+[squid:S2147"DCombine this catch with the one at line 28, which has the same body.(®ÞØÍ
+dsquid:UselessImportCheck";Remove this unused import 'java.rmi.AlreadyBoundException'.(ÿåóœÿÿÿÿÿ
+Osquid:S1444"3Make this "public static CLIENT_THREAD" field final(ÄÌÔþÿÿÿÿ
+?squid:S1604%"(Make this anonymous inner class a lambda(ª¿¨¥
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+tsquid:S3008"XRename this field "CLIENT_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÌÔþÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(ÄÌÔþÿÿÿÿ
+Fsquid:S1148<"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8åŸüµý-
+Dsquid:S1444".Make this "public static registry" field final(ª…S
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

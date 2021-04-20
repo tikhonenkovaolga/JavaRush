@@ -1,0 +1,4 @@
+
+„ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+‡squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(º¢È­
+†squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(º¢È­

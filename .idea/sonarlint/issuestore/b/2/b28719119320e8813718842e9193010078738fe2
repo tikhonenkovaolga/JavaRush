@@ -1,0 +1,8 @@
+
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‰Ø¯æä.
+\
+squid:S899":Do something with the "boolean" value returned by "offer".(˜™®îÿÿÿÿÿ8šˆ€æä.
+Hsquid:S00108")Either remove or fill this block of code.(ä ¹€8¥íÛçä.
+tsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ç¹º×üÿÿÿÿ8üó®æä.
+tsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÝÖÈýûÿÿÿÿ8‡êéçä.
+Hsquid:S3457"%String contains no format specifiers.(ÝÖÈýûÿÿÿÿ8‡êéçä.

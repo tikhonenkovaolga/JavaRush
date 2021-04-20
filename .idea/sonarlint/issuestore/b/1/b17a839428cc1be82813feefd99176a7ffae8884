@@ -1,0 +1,6 @@
+
+Hsquid:S1068"*Remove this unused "height" private field.(ÅœÔ˜8ğÓ¸†œ-
+Fsquid:S1068
+"(Remove this unused "name" private field.(Ë¥¼8®õ¶†œ-
+Gsquid:S1068")Remove this unused "color" private field.(È„…¦8É³¹†œ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ÿó½†œ-

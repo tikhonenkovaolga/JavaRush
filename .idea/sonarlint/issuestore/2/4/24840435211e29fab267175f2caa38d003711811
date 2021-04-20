@@ -1,0 +1,6 @@
+
+lsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ìÏ8‰€¦˜Ë-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(şğŠùÿÿÿÿ8óó‹–Î-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8óó‹–Î-
+lsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ñ„—ú8‰€¦˜Ë-
+psquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÙÎÆüÿÿÿÿ8™Ê˜üÊ-

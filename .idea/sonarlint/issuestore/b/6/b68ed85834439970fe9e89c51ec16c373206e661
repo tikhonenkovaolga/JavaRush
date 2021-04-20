@@ -1,0 +1,5 @@
+
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¦ç¸ýÿÿÿÿ8¡‘Á…£-
+zsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ÐÕÕ 8Ñ³¸…£-
+€squid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "list1".(º¦ç¸ýÿÿÿÿ8ö…Ä…£-

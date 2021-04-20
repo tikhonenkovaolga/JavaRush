@@ -1,0 +1,6 @@
+
+_squid:S1126"AReplace this if-then-else statement by a single return statement.( ÁÝÍ8Çûëí§-
+©%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8Ü–»Ô§-
+[squid:CallToDeprecatedMethod",Remove this use of "Date"; it is deprecated.(°û½´8ðœ”Ô§-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÌõâüÿÿÿÿ8Çûëí§-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8ðœ”Ô§-

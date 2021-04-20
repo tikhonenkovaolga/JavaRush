@@ -1,0 +1,13 @@
+
+Usquid:S3725":Replace this with a call to the "toFile().isFile()" method(ÆÒÊ8„ÚìÃ.
+[squid:S3725":Replace this with a call to the "toFile().exists()" method(ùí›šüÿÿÿÿ8ÀÄ¢ĞÄ.
+Zsquid:S3725"?Replace this with a call to the "toFile().isDirectory()" method(¡ÌÃ"8„ÚìÃ.
+Vsquid:S3725":Replace this with a call to the "toFile().exists()" method(•ğ• 8ÀÄ¢ĞÄ.
+Vsquid:S3725":Replace this with a call to the "toFile().isFile()" method(ÇĞ¼ü8ÀÄ¢ĞÄ.
+Vsquid:S3725":Replace this with a call to the "toFile().isFile()" method(ÇĞ¼ü8±Ğ™ŒÃ.
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ßÅäÃúÿÿÿÿ8ı¦¦Â.
+Vsquid:S3725":Replace this with a call to the "toFile().isFile()" method(ÇĞ¼ü8„ÚìÃ.
+Usquid:S3725":Replace this with a call to the "toFile().exists()" method(ºÔ8„ÚìÃ.
+Vsquid:S3725":Replace this with a call to the "toFile().isFile()" method(ÇĞ¼ü8ÀÄ¢ĞÄ.
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8ÀÄ¢ĞÄ.
+Vsquid:S3725":Replace this with a call to the "toFile().exists()" method(„éÔ£8ÀÄ¢ĞÄ.

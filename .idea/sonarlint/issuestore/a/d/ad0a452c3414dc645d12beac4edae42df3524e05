@@ -1,0 +1,4 @@
+
+usquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(§É˜£ÿÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+Zsquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ

@@ -1,0 +1,11 @@
+
+Gsquid:S1068")Remove this unused "color" private field.(È„…¦8îñûÖ›-
+˜squid:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+Msquid:S1068"*Remove this unused "weight" private field.(Ïã úûÿÿÿÿ8îñûÖ›-
+Fsquid:S1068	"(Remove this unused "name" private field.(Ë¥¼8îñûÖ›-
+Jsquid:S1068
+"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8îñûÖ›-
+Nsquid:S1068"+Remove this unused "address" private field.(÷§ùÿÿÿÿ8îñûÖ›-
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(²Ç­í8û¦›×›-
+Isquid:S1068"+Remove this unused "defName" private field.(ùÁÓ8ˆ›¡×›-
+isquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ƒƒÜ8ˆ›¡×›-

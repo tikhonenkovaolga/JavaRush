@@ -1,0 +1,7 @@
+
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+Tsquid:UselessImportCheck	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+Vsquid:S1854""9Remove this useless assignment to local variable "count".(ùé¹z8½âùÇ§-

@@ -1,0 +1,9 @@
+
+~"squid:ClassVariableVisibilityCheck0"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+}"squid:ClassVariableVisibilityCheck7"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+…"squid:ClassVariableVisibilityCheck8"RMake weight a static final constant or non-public and provide accessors if needed.(©ì¹ûÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck?"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+„"squid:ClassVariableVisibilityCheck@"QMake owner a static final constant or non-public and provide accessors if needed.(şè²Òøÿÿÿÿ
+squid:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öÜœÛıÿÿÿÿ
+˜squid:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê‡ëœ
+squid:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¿ëÒúÿÿÿÿ

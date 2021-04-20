@@ -1,0 +1,5 @@
+
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+Msquid:S1068"*Remove this unused "weight" private field.(Ïã úûÿÿÿÿ8Ü—ô£¯-
+Xsquid:UnusedPrivateMethod",Remove this unused private "setName" method.(ˆËŠ¯8Š€ö£¯-
+Wsquid:UnusedPrivateMethod""+Remove this unused private "setAge" method.(â¿8®¾ö£¯-

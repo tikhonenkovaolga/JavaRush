@@ -1,0 +1,15 @@
+
+§%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+Msquid:S00108a")Either remove or fill this block of code.(é–³öûÿÿÿÿ8¡žµäÃ-
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+]squid:S21427"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+4squid:S2386"Make this member "protected".(È‹÷“
+Zsquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ
+bsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(†€éˆ
+]squid:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+Dsquid:S1444"-Make this "public static threads" field final(È‹÷“
+"squid:ClassVariableVisibilityCheck@"QMake check a static final constant or non-public and provide accessors if needed.(âÝ–
+"squid:ClassVariableVisibilityCheck"SMake threads a static final constant or non-public and provide accessors if needed.(È‹÷“
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(„â¡Žûÿÿÿÿ
+isquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(†óšù8À¾©ïÃ-

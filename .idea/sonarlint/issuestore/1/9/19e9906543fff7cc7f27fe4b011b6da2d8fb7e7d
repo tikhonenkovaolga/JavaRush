@@ -1,0 +1,6 @@
+
+Š"squid:ClassVariableVisibilityCheck"WMake threadCount a static final constant or non-public and provide accessors if needed.(÷îòûþÿÿÿÿ
+Asquid:S001089")Either remove or fill this block of code.(ä ¹€
+]squid:S21429"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ±ñÅúÿÿÿÿ
+Msquid:S1444"1Make this "public static threadCount" field final(÷îòûþÿÿÿÿ

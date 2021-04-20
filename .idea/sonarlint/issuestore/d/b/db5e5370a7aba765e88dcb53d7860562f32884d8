@@ -1,0 +1,6 @@
+
+Ssquid:UselessImportCheck	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(•«±ÿÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š›ÒÏþÿÿÿÿ
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õè«øøÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Èÿ´õ

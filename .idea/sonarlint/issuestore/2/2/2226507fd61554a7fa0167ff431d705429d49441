@@ -1,0 +1,8 @@
+
+˜squid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+€"squid:ClassVariableVisibilityCheck
+"RMake radius a static final constant or non-public and provide accessors if needed.(“–£
+Š"squid:ClassVariableVisibilityCheck"UMake defRadius a static final constant or non-public and provide accessors if needed.(Â¹‚ù8Ş¸ª¤œ-
+{"squid:ClassVariableVisibilityCheck"MMake x a static final constant or non-public and provide accessors if needed.(›¾ê·
+€"squid:ClassVariableVisibilityCheck	"MMake y a static final constant or non-public and provide accessors if needed.(ñĞó‚ÿÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"PMake defY a static final constant or non-public and provide accessors if needed.(™”Àüÿÿÿÿ8Â¥©¤œ-

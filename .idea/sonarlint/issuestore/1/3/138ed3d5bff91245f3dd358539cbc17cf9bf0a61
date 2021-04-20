@@ -1,0 +1,9 @@
+
+Qsquid:S1948".Make "undoListener" transient or serializable.(Æˆÿÿÿÿÿ8É‘ìÑÊ.
+osquid:UselessImportCheck"?Remove this unused import 'javax.swing.text.html.HTMLDocument'.(„˜Òùÿÿÿÿ8É‘ìÑÊ.
+Osquid:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ8¼™ÍÇ.
+qsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(”Š„¶øÿÿÿÿ8ö×öËÇ.
+bsquid:S2147/"DCombine this catch with the one at line 40, which has the same body.(¯áè8É‘ìÑÊ.
+bsquid:S2147+"DCombine this catch with the one at line 40, which has the same body.(ü¨áé8É‘ìÑÊ.
+\"squid:SwitchLastCaseIsDefaultCheck9""Add a default case to this switch.(¸ìù«üÿÿÿÿ8É‘ìÑÊ.
+bsquid:S2147-"DCombine this catch with the one at line 40, which has the same body.(Å¡ß8É‘ìÑÊ.

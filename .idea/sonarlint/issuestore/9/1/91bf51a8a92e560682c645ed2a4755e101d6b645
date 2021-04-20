@@ -1,0 +1,9 @@
+
+Usquid:S25895"7Remove this expression which always evaluates to "true"(ÅžÕÐ8»›ÌØš-
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(Ç¨Êžøÿÿÿÿ8“òœ×š-
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(¤ðìÛûÿÿÿÿ8®¤—Øš-
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8üÍ—×š-
+Usquid:S25895"7Remove this expression which always evaluates to "true"(ÅžÕÐ8»›ÌØš-
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(ÚöšÞýÿÿÿÿ8–Š˜Øš-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÙØ¤Þýÿÿÿÿ8ˆï“×š-
+Usquid:S25892"7Remove this expression which always evaluates to "true"(óŠ˜é8·Ó¼Øš-

@@ -1,0 +1,5 @@
+
+5squid:S2129"Remove this "Long" constructor(γ”‹π
+?squid:S2129"#Remove this "Character" constructor(ΥΚυκωÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ζλοÿÿÿÿÿ
+Ά%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΩΨ¤ήύÿÿÿÿ

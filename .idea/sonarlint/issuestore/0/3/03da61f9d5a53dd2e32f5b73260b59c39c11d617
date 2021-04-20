@@ -1,0 +1,13 @@
+
+{"squid:ClassVariableVisibilityCheck"MMake C a static final constant or non-public and provide accessors if needed.(ÅşÊ
+Esquid:S1444"'Make this "public static A" field final(ì¼Ö¤8™‹È§-
+ksquid:S00116"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅşÊ8½øŠÈ§-
+jsquid:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¼Ö¤8™‹È§-
+osquid:S3008	"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú“Ù²øÿÿÿÿ8Úá”È§-
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+€"squid:ClassVariableVisibilityCheck	"MMake B a static final constant or non-public and provide accessors if needed.(ú“Ù²øÿÿÿÿ
+Jsquid:S1444	"'Make this "public static B" field final(ú“Ù²øÿÿÿÿ8Úá”È§-
+{"squid:ClassVariableVisibilityCheck"MMake A a static final constant or non-public and provide accessors if needed.(ì¼Ö¤
+{"squid:ClassVariableVisibilityCheck"MMake D a static final constant or non-public and provide accessors if needed.(Ã˜ö¾
+jsquid:S3008"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã˜ö¾8”õ–È§-
+Esquid:S1444"'Make this "public static D" field final(Ã˜ö¾8”õ–È§-

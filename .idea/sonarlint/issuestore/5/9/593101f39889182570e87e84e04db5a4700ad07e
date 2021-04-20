@@ -1,0 +1,5 @@
+
+Vsquid:S2134"@Don't extend "Thread", since the "run" method is not overridden.(€Φ
+Fsquid:S1604
+"(Make this anonymous inner class a lambda(στΑ8¬¥»£.
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘

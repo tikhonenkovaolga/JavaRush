@@ -1,0 +1,10 @@
+
+"squid:SwitchLastCaseIsDefaultCheckF"YComplete cases by adding the missing enum constants or add a default case to this switch.(°Ó÷8Öş±Š/
+>squid:S3626A"Remove this redundant jump.(ÖÖˆûÿÿÿÿ8Öş±Š/
+7squid:S2178>"Correct this "&" to "&&".(»šïî8Öş±Š/
+„squid:S2178l"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Åöÿø8Öş±Š/
+"squid:SwitchLastCaseIsDefaultCheck\"YComplete cases by adding the missing enum constants or add a default case to this switch.(°Ó÷8Öş±Š/
+7squid:S2178>"Correct this "&" to "&&".(»šïî8Öş±Š/
+7squid:S2178>"Correct this "&" to "&&".(»šïî8Öş±Š/
+n
+squid:S128G"LEnd this switch case with an unconditional break, return or throw statement.(»ûÙúÿÿÿÿ8Öş±Š/

@@ -1,0 +1,4 @@
+
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(õè«øøÿÿÿÿ
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8’™®ŽÉ-
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8â†®ŽÉ-

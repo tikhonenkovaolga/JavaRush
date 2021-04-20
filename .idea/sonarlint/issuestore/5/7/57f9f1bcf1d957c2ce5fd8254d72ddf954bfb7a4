@@ -1,0 +1,5 @@
+
+>squid:S2326
+"T is not used in the class.(§ÌÑƒúÿÿÿÿ8İÄù©/
+‚squid:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(™æõ’
+‰squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(é—ù§ıÿÿÿÿ

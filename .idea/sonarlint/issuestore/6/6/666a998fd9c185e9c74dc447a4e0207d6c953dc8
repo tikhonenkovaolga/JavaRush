@@ -1,0 +1,8 @@
+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
+8squid:S1643J"Use a StringBuilder instead.(ÚíÛîùÿÿÿÿ
+8squid:S1643("Use a StringBuilder instead.(Ù×é¶şÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”€Ÿ”
+8squid:S16435"Use a StringBuilder instead.(ŸÃ–Œûÿÿÿÿ
+qsquid:S2095X"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(«§» øÿÿÿÿ8¯ÉØˆÔ-
+8squid:S1643?"Use a StringBuilder instead.(ß§Åøÿÿÿÿ

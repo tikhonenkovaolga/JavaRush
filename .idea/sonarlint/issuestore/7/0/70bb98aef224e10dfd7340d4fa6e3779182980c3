@@ -1,0 +1,10 @@
+
+Gsquid:S2140*")Use "java.util.Random.nextInt()" instead.(ÚŸë˜8Å‹˜™ï.
+7squid:S2178W"Correct this "&" to "&&".(öªëÉ8Å‹˜™ï.
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒ¤÷¬8¿Š°ÿê.
+Šsquid:S2178¸"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(›ùÓúÿÿÿÿ8Å‹˜™ï.
+…squid:S2178Ò"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ù†àÇ8Å‹˜™ï.
+Msquid:S2140Ú")Use "java.util.Random.nextInt()" instead.(°‰Êûÿÿÿÿ8Å‹˜™ï.
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(†¼É8¿Š°ÿê.
+„squid:S2178o"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¸˜ ÷8Å‹˜™ï.
+W"squid:SwitchLastCaseIsDefaultCheckÛ""Add a default case to this switch.(Âúïi8Å‹˜™ï.

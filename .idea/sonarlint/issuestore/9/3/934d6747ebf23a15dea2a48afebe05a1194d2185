@@ -1,0 +1,8 @@
+
+Hsquid:S1068"*Remove this unused "radius" private field.(¦—Âï8ÿâ«£œ-
+Lsquid:S1068")Remove this unused "width" private field.(•õ¦òùÿÿÿÿ8ÔÍ¬£œ-
+Hsquid:S1068"+Remove this unused "centerY" private field.(×‰ö	8¥±ª£œ-
+˜squid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+Nsquid:S1068
+"+Remove this unused "centerX" private field.(ÝâÚâùÿÿÿÿ8¥±ª£œ-
+Lsquid:S1068")Remove this unused "color" private field.(ó¦¥œúÿÿÿÿ8—È­£œ-

@@ -1,0 +1,7 @@
+
+psquid:S1450"RRemove the "sex" field and declare it as a local variable in the relevant methods.(­Ê‰œ8æÿÛÖ›-
+Fsquid:S1068	"(Remove this unused "name" private field.(Ë¥¼8È÷½Ö›-
+Esquid:S1068"'Remove this unused "sex" private field.(­Ê‰œ8È÷½Ö›-
+Jsquid:S1068
+"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8È÷½Ö›-
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘

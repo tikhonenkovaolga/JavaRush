@@ -1,0 +1,8 @@
+
+Isquid:S1172"-Remove this unused method parameter "param1".(ÔŞ‹Œûÿÿÿÿ
+˜squid:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+Qsquid:UnusedPrivateMethod",Remove this unused private "method4" method.(•’£à
+Qsquid:S1854"5Remove this useless assignment to local variable "d".(¹¼àœıÿÿÿÿ
+Vsquid:S1854":Remove this useless assignment to local variable "param1".(òÌÃÿÿÿÿÿ
+Bsquid:S1481"&Remove this unused "d" local variable.(¹¼àœıÿÿÿÿ
+Isquid:S1172&"-Remove this unused method parameter "param2".(óêéúÿÿÿÿ

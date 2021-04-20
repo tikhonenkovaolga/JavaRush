@@ -1,0 +1,5 @@
+
+Vsquid:S1854":Remove this useless assignment to local variable "result".(üø¤ðùÿÿÿÿ
+Xsquid:UselessImportCheck
+"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ú¾ž§ûÿÿÿÿ

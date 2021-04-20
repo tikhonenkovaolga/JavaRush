@@ -1,0 +1,6 @@
+
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Ó«û
+Esquid:S1444".Make this "public static fileName" field final(Ó«û
+fsquid:S2095"OUse try-with-resources or close this "AmigoOutputStream" in a "finally" clause.(„Âú
+‚"squid:ClassVariableVisibilityCheck"TMake fileName a static final constant or non-public and provide accessors if needed.(Ó«û
+Msquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å

@@ -1,0 +1,5 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8®Ñş ¢.
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•™üà8ÏÌğ ¢.
+Ssquid:S2209"5Change this instance-reference to a static reference.(Í©Ø•8ÿí®¡¢.
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†8®Ñş ¢.

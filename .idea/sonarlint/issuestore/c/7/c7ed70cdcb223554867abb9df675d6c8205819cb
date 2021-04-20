@@ -1,0 +1,11 @@
+
+˜squid:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+vsquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(à•î*8ìÃ›-
+|squid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "f".(³œã£şÿÿÿÿ8™òÌ›-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ù£ÿ¬ûÿÿÿÿ
+csquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(Ğ”©ƒúÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‘Ğ¬¾
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‘Ğ¬¾8 üÀ›-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ƒÓÈÿÿÿÿÿ
+|squid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "a".(ÁğŒùÿÿÿÿ8±¯Á›-
+wsquid:S1488""YImmediately return this expression instead of assigning it to the temporary variable "b".(’ğ‰é8±âÕ›-

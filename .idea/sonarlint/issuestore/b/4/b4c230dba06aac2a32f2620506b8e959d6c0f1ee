@@ -1,0 +1,5 @@
+
+isquid:UselessImportCheck">Remove this unused import 'sun.java2d.pipe.SpanShapeRenderer'.(Ö¼Ğ8È¹Á›.
+bsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8‚®·Á›.
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö¼Ğ8È¹Á›.
+[squid:UselessImportCheck"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ

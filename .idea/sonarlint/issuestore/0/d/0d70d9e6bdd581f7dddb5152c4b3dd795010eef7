@@ -1,0 +1,7 @@
+
+Usquid:S1854"7Remove this useless assignment to local variable "dog".(ñŒß8§Ü½-
+`"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+Fsquid:S1481"(Remove this unused "dog" local variable.(ñŒß8§Ü½-
+`"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ
+Ksquid:S1481"(Remove this unused "cat" local variable.(÷»Áùÿÿÿÿÿ8‹ã¾-
+Zsquid:S1854"7Remove this useless assignment to local variable "cat".(÷»Áùÿÿÿÿÿ8‹ã¾-

@@ -1,0 +1,7 @@
+
+‡squid:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(€ş§çÿÿÿÿÿ
+Fsquid:S1481"(Remove this unused "key" local variable.(™îĞ8ı¼‚Ş¤-
+‰squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¢òßµøÿÿÿÿ
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ÕáÃÜüÿÿÿÿ8¢ú®Ş¤-
+Usquid:S1854"7Remove this useless assignment to local variable "key".(™îĞ8ı¼‚Ş¤-
+isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(°“8Òß®Ş¤-

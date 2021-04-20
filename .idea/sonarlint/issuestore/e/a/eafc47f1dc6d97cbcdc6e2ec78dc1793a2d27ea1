@@ -1,0 +1,7 @@
+
+Osquid:S1481/",Remove this unused "subject" local variable.(Â”£áùÿÿÿÿ8†ôÃÈ—.
+_squid:S1854"<Remove this useless assignment to local variable "location".(¾º›õÿÿÿÿÿ8ñãÁÈ—.
+^squid:S1854/";Remove this useless assignment to local variable "subject".(Â”£áùÿÿÿÿ8†ôÃÈ—.
+Gsquid:S1481")Remove this unused "user" local variable.(Ç­‚û8ÌÂÀÈ—.
+Vsquid:S1854"8Remove this useless assignment to local variable "user".(Ç­‚û8ÌÂÀÈ—.
+Psquid:S1481"-Remove this unused "location" local variable.(¾º›õÿÿÿÿÿ8ñãÁÈ—.

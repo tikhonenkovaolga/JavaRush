@@ -1,0 +1,5 @@
+
+Fsquid:S1068")Remove this unused "speed" private field.(‡ÚÙ)8Ášº¤¯-
+Msquid:S1068"*Remove this unused "weight" private field.(Ïã úûÿÿÿÿ8Þˆ¹¤¯-
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+qsquid:S1450"TRemove the "speed" field and declare it as a local variable in the relevant methods.(‡ÚÙ)8ÒßÁ¤¯-

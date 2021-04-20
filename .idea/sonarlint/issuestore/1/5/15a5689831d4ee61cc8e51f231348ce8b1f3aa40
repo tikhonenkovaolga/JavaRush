@@ -1,0 +1,8 @@
+
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ
+xsquid:S00115¥"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûáá´üÿÿÿÿ
+Asquid:S2786¢")Remove this redundant "static" qualifier.(‹Žá¯
+xsquid:S00115£"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(žÀ³Òüÿÿÿÿ
+xsquid:S00115¦"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»ž£ðúÿÿÿÿ
+qsquid:S3038!"N"getTM" is defined in the "Item" interface and can be removed from this class.(¢ªã¬ýÿÿÿÿ8³´‘é›.
+xsquid:S00115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÐÜéöúÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Ksquid:S1481"/Remove this unused "countFile2" local variable.(ı¯Ğúÿÿÿÿ
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¨ÉÈüÿÿÿÿ
+Usquid:S1854">Remove this useless assignment to local variable "countFile1".(šä€ş
+Zsquid:S1854">Remove this useless assignment to local variable "countFile2".(ı¯Ğúÿÿÿÿ
+jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ûÖÊöÿÿÿÿÿ
+Fsquid:S1481"/Remove this unused "countFile1" local variable.(šä€ş
+csquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Î­Ø

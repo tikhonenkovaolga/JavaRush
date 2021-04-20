@@ -1,0 +1,6 @@
+
+‹squid:S1319
+"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ïèÆ‡8ÁË«Û£-
+‰squid:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(”ÆÑÖ8¢Õæß£-
+isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(êĞ­ú8¯—à£-
+‰squid:S1319$"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(ï€´Å8®çß£-
