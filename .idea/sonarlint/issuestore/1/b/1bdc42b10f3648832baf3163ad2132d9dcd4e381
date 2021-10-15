@@ -1,37 +1,21 @@
 
-fsquid:S00112†"FDefine and throw a dedicated exception instead of using a generic one.(î¶„á8”Ø÷¶/
-squid:S1319W"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(£ÄËöüÿÿÿÿ8”Ø÷¶/
-=squid:S2178Ó"Correct this "&" to "&&".(µãÄÿÿÿÿÿ8”Ø÷¶/
-jsquid:S00112a"FDefine and throw a dedicated exception instead of using a generic one.(ôÄ±¬ùÿÿÿÿ8”Ø÷¶/
-vsquid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(õÖ§–ÿÿÿÿÿ8”Ø÷¶/
-„squid:S21781"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¨’Ùù8”Ø÷¶/
-bsquid:S2259/"EA "NullPointerException" could be thrown; "lexemes" is nullable here.(áÀîV8”Ø÷¶/
-jsquid:S00112["FDefine and throw a dedicated exception instead of using a generic one.(ôÄ±¬ùÿÿÿÿ8”Ø÷¶/
-„squid:S21781"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¨’Ùù8”Ø÷¶/
-„squid:S21782"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¥ı£í8”Ø÷¶/
-_squid:UselessImportCheck"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ
-ksquid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(«ğïÿÿÿÿÿ8”Ø÷¶/
-=squid:S2178Ñ"Correct this "&" to "&&".(Ê´½Óşÿÿÿÿ8”Ø÷¶/
-„squid:S21781"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¨’Ùù8”Ø÷¶/
-=squid:S2178»"Correct this "&" to "&&".(šÇùÉıÿÿÿÿ8”Ø÷¶/
-‰squid:S2178f"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¸øü±ıÿÿÿÿ8”Ø÷¶/
-fsquid:S00112ù"FDefine and throw a dedicated exception instead of using a generic one.(ïÇÍ8”Ø÷¶/
-fsquid:S00112Ë"FDefine and throw a dedicated exception instead of using a generic one.(½£÷ë8”Ø÷¶/
-=squid:S2178»"Correct this "&" to "&&".(šÇùÉıÿÿÿÿ8”Ø÷¶/
-Šsquid:S2178Ñ"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Ê´½Óşÿÿÿÿ8”Ø÷¶/
-:squid:S3626æ"Remove this redundant jump.(ÉŠ©ƒ8”Ø÷¶/
-esquid:S1192Ë"FDefine a constant instead of duplicating this literal "wrong" 3 times.(½£÷ë8”Ø÷¶/
-Šsquid:S2178Ñ"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ê´½Óşÿÿÿÿ8”Ø÷¶/
-‰squid:S2178Z"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¸øü±ıÿÿÿÿ8”Ø÷¶/
-squid:S1192["{Define a constant instead of duplicating this literal "Ğ½ĞµĞ²ĞµÑ€Ğ½Ğ¾Ğµ ĞºĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ğ°Ñ€Ğ³ÑƒĞ¼ĞµĞ½Ñ‚Ğ¾Ğ²" 3 times.(ôÄ±¬ùÿÿÿÿ8”Ø÷¶/
-fsquid:S00112î"FDefine and throw a dedicated exception instead of using a generic one.(½£÷ë8”Ø÷¶/
-}squid:S21781"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¨’Ùù
-=squid:S2178±"Correct this "&" to "&&".(è¿¨Äùÿÿÿÿ8”Ø÷¶/
-‰squid:S2178`"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¸øü±ıÿÿÿÿ8”Ø÷¶/
-=squid:S2178±"Correct this "&" to "&&".(è¿¨Äùÿÿÿÿ8”Ø÷¶/
-|
-squid:S135‹"YReduce the total number of break and continue statements in this loop to use at most one.(Ë´›úÿÿÿÿ8”Ø÷¶/
-6squid:S21788"Correct this "&" to "&&".(¤Œ‹38”Ø÷¶/
-fsquid:S00112¢"FDefine and throw a dedicated exception instead of using a generic one.(ö¯‚8”Ø÷¶/
-=squid:S2178±"Correct this "|" to "||".(è¿¨Äùÿÿÿÿ8”Ø÷¶/
-jsquid:S00112g"FDefine and throw a dedicated exception instead of using a generic one.(ôÄ±¬ùÿÿÿÿ8”Ø÷¶/
+<squid:S2178"Correct this "|" to "||".(¼¬Üúÿÿÿÿ8üÀ‘ï/
+`squid:UnusedPrivateMethody"/Remove this unused private "cutPattern" method.(Íˆô£ûÿÿÿÿ8‚µ’ï/
+<squid:S2178"Correct this "|" to "||".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "&" to "&&".(¼¬Üúÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "&" to "&&".(¼¬Üúÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "|" to "||".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+_squid:UnusedPrivateMethod}"3Remove this unused private "switchOperator" method.(¥ËµÈ8‚µ’ï/
+<squid:S2178"Correct this "|" to "||".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "|" to "||".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "|" to "||".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "&" to "&&".(¼¬Üúÿÿÿÿ8üÀ‘ï/
+Rsquid:S1066r"/Merge this if statement with the enclosing one.(ø¶ĞÂşÿÿÿÿ8üÀ‘ï/
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¥ö°¦8üÀ‘ï/
+<squid:S2178"Correct this "&" to "&&".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "|" to "||".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "&" to "&&".(Óˆªùùÿÿÿÿ8üÀ‘ï/
+<squid:S2178"Correct this "&" to "&&".(¼¬Üúÿÿÿÿ8üÀ‘ï/
+W"squid:SwitchLastCaseIsDefaultCheck~""Add a default case to this switch.(ıÉñ¿8üÀ‘ï/
+Nsquid:S1481"+Remove this unused "result" local variable.(›¡Ã ıÿÿÿÿ8üÀ‘ï/
+Isquid:S1481",Remove this unused "pattern" local variable.(‰Øé8ùç’ï/
