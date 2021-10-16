@@ -1,0 +1,4 @@
+
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(υγξΏψÿÿÿÿ8ΐ‰ιτΈ/
+|squid:S1450	"YRemove the "controller" field and declare it as a local variable in the relevant methods.(·Βλόÿÿÿÿ8ΊοκτΈ/
+Qsquid:S1068	".Remove this unused "controller" private field.(·Βλόÿÿÿÿ8¥ηιτΈ/

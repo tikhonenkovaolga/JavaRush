@@ -1,0 +1,7 @@
+
+"squid:SwitchLastCaseIsDefaultCheckp"YComplete cases by adding the missing enum constants or add a default case to this switch.(°Ó÷8ëÚõ’/
+zsquid:S3973x"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ŠÍÓ»úÿÿÿÿ8ëÚõ’/
+Šsquid:S2178…"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ş“ôÃøÿÿÿÿ8ëÚõ’/
+Šsquid:S2178…"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ş“ôÃøÿÿÿÿ8ëÚõ’/
+Hsquid:S00108D")Either remove or fill this block of code.(”ı¾8•§ï/
+/squid:S21788"Correct this "&" to "&&".(ûÑ¿P

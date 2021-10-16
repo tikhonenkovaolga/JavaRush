@@ -1,0 +1,12 @@
+
+Asquid:S00108L")Either remove or fill this block of code.(”ı¾
+Asquid:S00108")Either remove or fill this block of code.(ï­£Ä
+Osquid:S2589G"8Remove this expression which always evaluates to "false"(¡ÿ‹½
+Asquid:S001082")Either remove or fill this block of code.(ï­£Ä
+Xsquid:S2209b"5Change this instance-reference to a static reference.(ôÇªşûÿÿÿÿ8å €”Ä/
+jsquid:S2259b"GA "NullPointerException" could be thrown; "operation" is nullable here.(ôÇªşûÿÿÿÿ8å €”Ä/
+ksquid:S1192."MDefine a constant instead of duplicating this literal "invalid.data" 3 times.(°ë8ÍŠ”¶Å/
+]squid:S1118":Add a private constructor to hide the implicit public one.(ÿèŸ¡şÿÿÿÿ8İÿøµÅ/
+ksquid:S1192"HDefine a constant instead of duplicating this literal "the.end" 5 times.(«ŠÃÿÿÿÿÿ8ÀÈûµÅ/
+Jsquid:S11728"3Remove this unused method parameter "currencyCode".(€Å©
+fsquid:S22595"JA "NullPointerException" could be thrown; "currencyCode" is nullable here.(›«Í¹øÿÿÿÿ

@@ -1,0 +1,17 @@
+
+jsquid:S3027¾"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(éµÉ¿úÿÿÿÿ8Çµø®/
+esquid:S1192Ò"FDefine a constant instead of duplicating this literal "event" 4 times.(ìÄšì8Çµø®/
+jsquid:S2095Z"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ìÇ¡Ø8²´½Î®/
+Nsquid:S00108†")Either remove or fill this block of code.(âÃƒŠıÿÿÿÿ8§šÅÎ®/
+Nsquid:S1172p"+Remove this unused method parameter "path".(ƒÜŸ¢ùÿÿÿÿ8øŒã®/
+csquid:S2147g"ECombine this catch with the one at line 101, which has the same body.(ï­£Ä8²´½Î®/
+Fsquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²´½Î®/
+Fsquid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²´½Î®/
+jsquid:S3027ñ"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(éµÉ¿úÿÿÿÿ8Çµø®/
+jsquid:S3027"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(´…„Ùûÿÿÿÿ8Çµø®/
+ksquid:S1192ƒ"GDefine a constant instead of duplicating this literal "status" 4 times.(ÃÔ­¨üÿÿÿÿ8Çµø®/
+jsquid:S3027–"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(éµÉ¿úÿÿÿÿ8Çµø®/
+jsquid:S3027À"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(éµÉ¿úÿÿÿÿ8Çµø®/
+‰squid:S2178V"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Ö¸¡‡øÿÿÿÿ8²´½Î®/
+fsquid:S2095Y"HUse try-with-resources or close this "FileReader" in a "finally" clause.(—âË8²´½Î®/
+jsquid:S3027÷"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(éµÉ¿úÿÿÿÿ8Çµø®/

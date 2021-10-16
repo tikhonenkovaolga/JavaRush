@@ -1,0 +1,6 @@
+
+bsquid:S2259"DA "NullPointerException" could be thrown; "second" is nullable here.(™éÛ8İ€£¾/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¡ÆÉÿÿÿÿÿ8“¢¼¡¾/
+7squid:S2178"Correct this "&" to "&&".(™éÛ8ÿœ…¾/
+„squid:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(™éÛ8ß†˜…¾/
+asquid:S2259"CA "NullPointerException" could be thrown; "first" is nullable here.(™éÛ8ÿœ…¾/

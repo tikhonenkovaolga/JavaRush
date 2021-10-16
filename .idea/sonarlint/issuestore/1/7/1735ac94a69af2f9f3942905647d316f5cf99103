@@ -1,0 +1,8 @@
+
+¬%squid:RedundantThrowsDeclarationCheck0"tRemove the declaration of thrown exception 'java.util.ConcurrentModificationException' which is a runtime exception.(…ŒÌÚ8…š…’Ä/
+Wsquid:S2864!"4Iterate over the "entrySet" instead of the "keySet".(şÍĞøÿÿÿÿ8àĞËÅ/
+7squid:S2178Q"Correct this "&" to "&&".(È ö8Ğ¶±Ã/
+psquid:S37760"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(…ŒÌÚ8Ğ¶±Ã/
+‹ squid:ForLoopCounterChangedCheckQ"XRefactor the code in order to not assign to this loop counter from within the loop body.(È ö8Ğ¶±Ã/
+t
+squid:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(ïúÄÌüÿÿÿÿ
